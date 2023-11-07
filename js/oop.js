@@ -27,7 +27,7 @@ function Hamburger(bun, vegetables, cheeses, sauces, pattyType, pattyNum, toppin
         > Bun type: ${this.bun}<br> 
         > Vagetables: ${this.vegetables}<br>
         > Cheeses: ${this.cheeses}<br>
-        > Saucess: ${this.sauces}<br> 
+        > Sauces: ${this.sauces}<br> 
         > Patty Type : ${this.pattyType}<br>
         > Patty Number: ${this.pattyNum}<br>
         > Toppings: ${this.toppings}`;
